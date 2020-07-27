@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on enhancing my Data Science Skills ;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science at Guru Gobind Singh Indraprastha University(http://www.ipu.ac.in/);
+- 💼 I’m pursuing a Bachelor's degree in Computer Science at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/);
 - 🤔 My interests are with Data Science,Machine Learning etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via singhnaman985@gmail.com to reach me.
