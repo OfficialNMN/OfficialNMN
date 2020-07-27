@@ -31,13 +31,36 @@
 <a href="https://github.com/OfficialNMN"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats"></a>
 </p> 
 
+### Follow me
+[![Linkedin Badge](https://img.shields.io/badge/-Namanjeet%20Singh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanjeet-singh-86202917a/)](https://www.linkedin.com/in/namanjeet-singh-86202917a/)
+[![GitHub Badge](https://img.shields.io/badge/-@OfficialNMN-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/OfficialNMN)](https://github.com/OfficialNMN)
+[![Twitter Badge](https://img.shields.io/badge/-@Official_NMN-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Official_NMN)](https://twitter.com/Official_NMN)
+
+### Top repositories
+
+<p align="center">
+  
+<a href="https://github.com/OfficialNMN/Sentimental-Analysis-NLP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialNMN&repo=Sentimental-Analysis-NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/OfficialNMN/AI-ChatBot">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OfficialNMN&repo=AI-ChatBot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
 
 
+<p align="center">
+<a href="https://github.com/OfficialNMN/Racers-Delight">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OfficialNMN&repo=Racers-Delight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-
-
-
-
+</p>
 
 
 
