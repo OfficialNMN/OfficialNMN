@@ -32,6 +32,7 @@
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" title="Pandas"></code>
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" title="OpenCV"></code>
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
+<code><img height="40" width ="40" src="https://www.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png" title="PowerBI"></code>
 <code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
 
 <p align="center">
