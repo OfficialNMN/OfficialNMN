@@ -34,7 +34,7 @@
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" title="OpenCV"></code>
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
 <code><img height="40" width ="40" src="https://www.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png" title="PowerBI"></code>
-<code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
+/// <code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
 
 <p align="center">
 <a href="https://github.com/OfficialNMN"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats"></a>
