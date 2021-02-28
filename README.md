@@ -37,20 +37,15 @@
 <code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
 
 
-
-
-
 <p align="center">
 <a href="https://github.com/OfficialNMN"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats"></a>
 </p> 
 
-
 ## Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-Namanjeet%20Singh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanjeet-singh-86202917a/)](https://www.linkedin.com/in/namanjeet-singh-86202917a/)
-[![GitHub Badge](https://img.shields.io/badge/-@OfficialNMN-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/OfficialNMN)](https://github.com/OfficialNMN)
-[![Twitter Badge](https://img.shields.io/badge/-@Official_NMN-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Official_NMN)](https://twitter.com/Official_NMN)
 
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanjeet-singh-86202917a/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/official07nmn)
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OfficialNMN)
 
 
 
