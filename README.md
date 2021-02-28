@@ -36,9 +36,14 @@
 <code><img height="40" width ="40" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
 <code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
 
+
+
+
+
 <p align="center">
 <a href="https://github.com/OfficialNMN"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats"></a>
 </p> 
+
 
 ## Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Namanjeet%20Singh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanjeet-singh-86202917a/)](https://www.linkedin.com/in/namanjeet-singh-86202917a/)
