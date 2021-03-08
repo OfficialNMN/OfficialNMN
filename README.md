@@ -34,7 +34,7 @@
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" title="OpenCV"></code>
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
 <code><img height="40" width ="50" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
-<code><img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm"/></code>
+<code><img height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="TensorFlow"/></code>
 
 
 <p align="center">
