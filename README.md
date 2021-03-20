@@ -29,12 +29,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="Sklearn"></code>
 <code><img height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="TensorFlow"/></code>
+<code><img height="40" width ="40" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr" title="Keras"/></code>
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" title="Numpy"></code>
 <code><img height="40" width ="60" src="https://matplotlib.org/_static/logo2.svg" title="Matplotlib"></code>
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" title="Pandas"></code>
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" title="OpenCV"></code>
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
 <code><img height="40" width ="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku"></code>
+<p align='center'>
 <code><img height="40" width ="40" src="https://selenium-python.readthedocs.io/_static/logo.png" title="Selenium"></code>
 <code><img height="40" width ="40" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
 
