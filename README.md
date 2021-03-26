@@ -39,10 +39,8 @@
 <code><img height="40" width ="40" src="https://selenium-python.readthedocs.io/_static/logo.png" title="Selenium"></code>
 <code><img height="40" width ="40" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
 
-
-
-<table><tr>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" /></td>
+<p align='center'>
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" />
 <!-- <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNMN&layout=compact&hide=html" alt="OfficialNMN" /></td>
 </tr></table> -->
 
