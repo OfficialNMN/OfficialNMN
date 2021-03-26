@@ -35,7 +35,6 @@
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" title="Pandas"></code>
 <code><img height="40" width ="40" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" title="OpenCV"></code>
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
-<p align="center">
 <code><img height="40" width ="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku"></code>
 <code><img height="40" width ="40" src="https://selenium-python.readthedocs.io/_static/logo.png" title="Selenium"></code>
 <code><img height="40" width ="40" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
@@ -44,8 +43,8 @@
 
 <table><tr>
 <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" /></td>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNMN&layout=compact&hide=html" alt="OfficialNMN" /></td>
-</tr></table>
+<!-- <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNMN&layout=compact&hide=html" alt="OfficialNMN" /></td>
+</tr></table> -->
 
 ## Contact me
 
