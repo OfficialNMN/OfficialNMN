@@ -23,7 +23,10 @@
 ## Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="40" src="https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg" title="JavaScript"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript"></code>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" title="C++"></code>
+<code><img height="40" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" title="HTML5"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS3"></code>
 <code><img height="40" width ="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="Flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
@@ -37,7 +40,6 @@
 <code><img height="40" width ="60" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" title="PyTorch"></code>
 <code><img height="40" width ="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku"></code>
 <code><img height="40" width ="40" src="https://selenium-python.readthedocs.io/_static/logo.png" title="Selenium"></code>
-<code><img height="40" width ="40" src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" title="PowerBI"></code>
 
 <p align='center'>
 <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" />
