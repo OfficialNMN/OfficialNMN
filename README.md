@@ -28,6 +28,7 @@
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="30" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="50" height="40"/>
+<img src="https://cdn.artandlogic.com/wp-content/uploads/django.jpeg" alt="Django" width="60" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Sklearn" width="50" height="40"/>
