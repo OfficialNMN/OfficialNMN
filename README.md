@@ -36,6 +36,7 @@
 <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr" alt="Keras" width="55" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" alt="Numpy" width="60" height="40"/>
+<img src="https://ecshackweek.github.io/img/tutorials/python-packages/scipy.png" alt="Scipy" width="60" height="40"/>
 <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="60" height="40"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"/>
 <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="Pandas" width="60" height="40"/>
