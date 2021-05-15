@@ -48,10 +48,12 @@
 <br>
 
 
-<p align='center'>
-<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" />
-<!-- <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNMN&layout=compact&hide=html" alt="OfficialNMN" /></td>
-</tr></table> -->
+<!-- <p align='center'> -->
+<!-- <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" /> -->
+
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&&show_icons=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialNMN"/>
 
 ## Contact me
 
