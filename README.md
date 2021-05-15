@@ -52,8 +52,13 @@
 <!-- <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&show_icons=true&hide=stars&count_private=true" alt="OfficialNMN" /> -->
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&&show_icons=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialNMN"/>
+|<img src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialNMN"/>|
+|---|---|
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=OfficialNMN&&show_icons=true&count_private=true"/> -->
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OfficialNMN)](https://git.io/streak-stats)-->
 
 ## Contact me
 
