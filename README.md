@@ -40,7 +40,7 @@
 <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="60" height="40"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"/>
 <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="Pandas" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png" alt="PowerBI" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="55" height="40"/>
 <img src="https://selenium-python.readthedocs.io/_static/logo.png" alt="Selenium" width="40" height="40"/>
