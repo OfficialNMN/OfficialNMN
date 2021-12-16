@@ -6,7 +6,7 @@
   </em>
  </p>
  
- <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
  
  <em>
   
